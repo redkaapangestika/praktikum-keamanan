@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# bebas
-=======
 # Google OAuth Project
 
 This project implements Google OAuth 2.0 authentication for a web application. It allows users to log in using their Google accounts, handle the authentication callback, and log out.
